@@ -156,9 +156,8 @@ The dashboard will open automatically at `http://localhost:8501`.
 
 ## Rating Distribution
 ![Rating Distribution](screenshots/Screenshot%202026-07-09%20163652.png)
-```
 
----
+
 
 ## 🚀 Future Improvements
 
