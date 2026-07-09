@@ -82,7 +82,7 @@ netflix-aws-analytics-pipeline/
 ├── charts/
 │   └── (EDA chart images)
 ├── screenshots/
-│   └── (Dashboard screenshots — add yours here)
+│   └── (Dashboard screenshot)
 ├── app.py                          # Streamlit dashboard
 ├── requirements.txt
 ├── .gitignore
@@ -144,18 +144,19 @@ The dashboard will open automatically at `http://localhost:8501`.
 
 ---
 
-## 🖥️ Dashboard Preview
 
-Add your dashboard screenshots below by placing image files in a `screenshots/` folder and referencing them like this:
+## Dashboard Overview
+![Dashboard Overview](screenshots/Screenshot%202026-07-09%20163613.png)
 
-```markdown
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Filtered View - Top Countries](screenshots/dashboard_countries.png)
+## Content by Country & Genre
+![Top Countries and Genres](screenshots/Screenshot%202026-07-09%20163628.png)
+
+## Content Growth Over Time
+![Content Growth](screenshots/Screenshot%202026-07-09%20163640.png)
+
+## Rating Distribution
+![Rating Distribution](screenshots/Screenshot%202026-07-09%20163652.png)
 ```
-
-<!-- Example placeholders — replace with your actual screenshots -->
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Dashboard Filters in Action](screenshots/dashboard_filtered.png)
 
 ---
 
